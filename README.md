@@ -1,3 +1,5 @@
+<p align="center"><a href="README_PT.md">Versão em Português</a></p>
+
 # JavaScript Loops Practice
 
 This repository contains simple JavaScript examples demonstrating the use of different **loop structures**.  
